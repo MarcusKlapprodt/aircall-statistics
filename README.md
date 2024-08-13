@@ -30,8 +30,8 @@ To use this project, follow these steps:
 
 2. **Create a virtual environment**:
     ```bash
-    python3 -m venv venv
-    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+    python3 -m venv .env
+    source .env/bin/activate  # On Windows use `venv\Scripts\activate`
     ```
 
 3. **Install dependencies**:
