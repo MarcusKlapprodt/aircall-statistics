@@ -24,7 +24,7 @@ To use this project, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/aircall-statistics.git
+    git clone https://github.com/MarcusKlapprodt/aircall-statistics.git
     cd aircall-statistics
     ```
 
